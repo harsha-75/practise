@@ -34,3 +34,5 @@ N is a 321-like Number, and No otherwise.
 Constraints
 All input values are integers.
 1≤N≤99999
+
+this is the 1st question
